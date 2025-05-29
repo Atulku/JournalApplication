@@ -1,0 +1,8 @@
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/JournalApplication.java
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/controller/HealthCheck.java
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/controller/JournalEntryController.java
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/controller/JournalEntryControllerV2.java
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/entity/JournalEntry.java
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/entity/JournalEntryV2.java
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/repository/JournalEntryRepository.java
+/Users/atul.kumar/SpringBoot/journalApplication/src/main/java/com/SpringBootTutorial/journalApplication/service/JournalEntryService.java

@@ -1,0 +1,6 @@
+com/SpringBootTutorial/journalApplication/JournalApplication.class
+com/SpringBootTutorial/journalApplication/entity/JournalEntryV2.class
+com/SpringBootTutorial/journalApplication/controller/JournalEntryControllerV2.class
+com/SpringBootTutorial/journalApplication/controller/HealthCheck.class
+com/SpringBootTutorial/journalApplication/service/JournalEntryService.class
+com/SpringBootTutorial/journalApplication/repository/JournalEntryRepository.class
